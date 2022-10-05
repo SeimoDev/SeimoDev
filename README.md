@@ -22,7 +22,7 @@
 
 ## Get in Touch
 
-(Recommended!) You can find my other contacts in my Blog -> [![Personal Website](https://img.shields.io/badge/-Seimo博客-pink?style=flat-square&logo=AddThis&logoColor=white&labelColor=pink)](https://seimo.cn/)
+Welcome to my Blog -> [![Personal Website](https://img.shields.io/badge/-Seimo博客-pink?style=flat-square&logo=AddThis&logoColor=white&labelColor=pink)](https://seimo.cn/)
 <details>
 <summary>Spoiler</summary>
  
