@@ -26,7 +26,7 @@ Welcome to my Blog -> [![Personal Website](https://img.shields.io/badge/-Seimo�
 <details>
 <summary>Spoiler</summary>
  
-[![Twitter](https://img.shields.io/twitter/follow/SeimoDev?color=1ca0f1&label=%40realMlgmXyysd&logo=twitter&logoColor=white&style=flat-square&labelColor=1ca0f1)](https://twitter.com/Seimodev)
+[![Twitter](https://img.shields.io/twitter/follow/SeimoDev?color=1ca0f1&label=%40Seimo&logo=twitter&logoColor=white&style=flat-square&labelColor=1ca0f1)](https://twitter.com/Seimodev)
 [![Sina Weibo](https://img.shields.io/badge/-@樱花Seimo-e6162d?style=flat-square&logo=sina-weibo&logoColor=white&labelColor=e6162d)](https://weibo.com/cldmh666)
 [![BiliBili](https://img.shields.io/badge/-Seimo夕摩-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/354243662)
 [![Zhihu](https://img.shields.io/badge/-Seimo-0e88eB?style=flat-square&logo=zhihu&logoColor=fff)](https://www.zhihu.com/people/Seimo)
