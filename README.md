@@ -36,6 +36,6 @@ Welcome to my Blog -> [![Personal Website](https://img.shields.io/badge/-Seimoå
 
 ## Something interesting
 
-<a href="https://github.com/komeiji-satori/Dress/tree/master/Seimo/">
+<a href="https://github.com/seimodev/Dress/tree/master/Seimo/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SeimoDev&repo=Dress&theme=dark&show_owner=true" />
 </a>
