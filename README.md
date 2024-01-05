@@ -19,6 +19,12 @@
 ![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=fff)
 ![Android](https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=fff)
+![C](https://img.shields.io/badge/C-00599C.svg?style=flat-square&style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000.svg?style=flat-square&logo=rust&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72.svg?style=flat-square&logo=lua&logoColor=white)
+![Shell_script](https://img.shields.io/badge/Shell_script-121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+
 
 ## Get in Touch
 
