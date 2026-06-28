@@ -1,5 +1,7 @@
 ### Hi there is Seimo 👋
 
+[![GitHub Roast](https://githubroast.dev/api/card/SeimoDev)](https://githubroast.dev/u/SeimoDev)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SeimoDev&show_icons=true&theme=dark&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
