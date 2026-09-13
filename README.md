@@ -47,3 +47,15 @@ Welcome to my Blog -> [![Personal Website](https://img.shields.io/badge/-Seimo�
 <a href="https://github.com/seimodev/Dress/tree/master/Seimo/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SeimoDev&repo=Dress&theme=dark&show_owner=true" />
 </a>
+
+<!-- checksheet-sales-start -->
+## Checksheet Starter Pack · US$5 purchase inquiry
+
+两份 CSV，按订单号或组合键核对金额。正在尝试出售 **US$5 一次性离线入门包**：工具、三组虚构案例与预期结果、中英文快速指南及验收清单。
+
+**完整软件与源码依然免费 MIT 开源；付费买的是整理与便利，不是独占功能。** 目前接受非约束购买意向，不收预付款；赞助不等于订单。
+
+[查看具体报价 / Purchase inquiry](https://github.com/SeimoDev/checksheet/discussions/1) · [免费版本 / Free app](https://github.com/SeimoDev/checksheet/releases/latest)
+
+Optional paid packaging for an already-free, open-source CSV amount checker. Chinese UI; English quick-start included. No custom-work or ongoing-support commitment.
+<!-- checksheet-sales-end -->
