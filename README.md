@@ -49,13 +49,13 @@ Welcome to my Blog -> [![Personal Website](https://img.shields.io/badge/-Seimo�
 </a>
 
 <!-- checksheet-sales-start -->
-## Checksheet Starter Pack · US$5 purchase inquiry
+## Checksheet Starter Pack · US$5 once
 
-两份 CSV，按订单号或组合键核对金额。正在尝试出售 **US$5 一次性离线入门包**：工具、三组虚构案例与预期结果、中英文快速指南及验收清单。
+两份CSV，按订单号或组合键核对金额。**US$5 一次性整理包**包含工具、三组虚构案例与预期结果、中英文快速指南及验收清单。
 
-**完整软件与源码依然免费 MIT 开源；付费买的是整理与便利，不是独占功能。** 目前接受非约束购买意向，不收预付款；赞助不等于订单。
+**完整软件仍免费 MIT 开源。** 整理包采用事先确认、一次性付款、验款后手工交付；普通赞助不自动算订单。交付链接会公开，购买的是整理与便利，不是独占访问。请先确认适用范围，收到回复后再付款。
 
-[查看具体报价 / Purchase inquiry](https://github.com/SeimoDev/checksheet/discussions/1) · [免费版本 / Free app](https://github.com/SeimoDev/checksheet/releases/latest)
+[查看购买条件 / Request the pack](https://github.com/SeimoDev/checksheet/discussions/1) · [免费版本 / Free app](https://github.com/SeimoDev/checksheet/releases/latest)
 
-Optional paid packaging for an already-free, open-source CSV amount checker. Chinese UI; English quick-start included. No custom-work or ongoing-support commitment.
+Optional paid packaging for a free, open-source CSV amount checker. Pre-agreed one-time sponsorship with a digital pack reward, manually verified and delivered. No recurring payment, exclusive-code or ongoing-support entitlement.
 <!-- checksheet-sales-end -->
